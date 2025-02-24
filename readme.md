@@ -15,3 +15,11 @@ I will **push code**, **document learnings**, and **share insights** every alter
 #### 🗓 **Day 2: React Hooks - useState, useEffect**
 - **Topics**: Managing state and side effects.
 - **Practice**: Create a Counter App and fetch API data using `useEffect`.
+
+#### 🗓 **Day 3: Lists, Children, Lifecycle Methods, Fragments **
+- **Topics**: Rendering lists, handling lifecycle events.
+- **Practice**:  Build a Todo List App with map() and fragments.
+
+#### 🗓 **Day 4: useRef & React Router  **
+- **Topics**:  Handling DOM references and navigation
+- **Practice**:   Build a Multi-Page App using React Router
