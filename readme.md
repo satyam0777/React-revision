@@ -27,10 +27,5 @@ I will **push code**, **document learnings**, and **share insights** every alter
 #### 🗓 **Day 5: Mini-Project **
 - **Topics**:  Implement a Mini Blog App with React Router.
 
-### **Week 2: Advanced React Concepts (25th February - 2nd March)**
+### **Week 2: Pratice and Revision of React - useState , useeffect , props, children , condition rendering etc**
 
-### 🗓 **Day 1: Recoil and State Management 
--  **Practice**: Add Recoil to your Blog App for global state management.
-
-### 🗓 **Day 2: Custom Hooks (useDebounce, useFetch) 
-- **Practice**: Create a custom hook to fetch data from an API with debouncing. 
